@@ -4,10 +4,6 @@ Quantitative research of various markets.
 
 This is a public demo version of the primary market research project (whose repo is private).
 
-## Description
+[DESCRIPTION ru](https://github.com/AndreyRysin/market-research-demo/blob/main/docs/description_ru.md) 
 
-An exhaustive project description is stored in the `docs` folder. There is a data flow scheme as well (SVG-image).
-
-## Code
-
-The repo is provided with a few code examples and snippets. See the `src` folder.
+[DATA FLOW SCHEME](https://github.com/AndreyRysin/market-research-demo/blob/main/docs/data_flow.svg)
